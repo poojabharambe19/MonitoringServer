@@ -10,4 +10,4 @@
 Display a full dashboard  ./mycustom.sh -all  -- Commands
 This function continuously refreshes the display every 5 seconds, showing the current status of all monitored resources and all resource updates and every 5 Seconds.
 Check only CPU usage   ./mycustom.sh -cpu  -- Commands
-Monitor network only    ./mycustom.sh -network -- commands
+Monitor network only   ./mycustom.sh -network -- commands
