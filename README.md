@@ -25,4 +25,4 @@ Reporting and Alerting Check  to commands ./mysecurity --report
 Output
 ![2 Task output](https://github.com/user-attachments/assets/a54d1452-0062-4ae2-8e8d-346e1a5ba255)
 ![3 output](https://github.com/user-attachments/assets/2719a607-c771-4125-93ee-f0f3133eeff8)
-![4 output](https://github.com/user-attachments/assets/bf0990c2-a72f-43be-8e76-2a8e213ef2de)
+![5 output](https://github.com/user-attachments/assets/b931a0c7-06a9-4fd1-a9d0-6e49fc8fe1b5)
